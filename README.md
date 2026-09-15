@@ -2,6 +2,9 @@
 
 Uma IA local de ditado por voz, feita para transcrever fala e ajustar o texto ao português — pontuação, acentuação e sugestões de correção gramatical — de forma personalizada e sem depender de serviços na nuvem.
 
+![Tela]<img width="691" height="725" alt="Captura de tela 2026-09-15 163318" src="https://github.com/user-attachments/assets/ef75783f-8e1c-4d96-8be2-fc769e8fc18c" />
+
+
 ## Funcionalidades
 - Captura de áudio em tempo real
 - Transcrição de fala para texto
