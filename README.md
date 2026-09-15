@@ -15,5 +15,6 @@ Execute Ditado.exe
 ## Requisitos
 Windows
 Microfone
+Ollama instalado e em execução localmente (localhost:11434), com um modelo baixado — necessário para a correção gramatical. Sem o Ollama rodando, o app ainda funciona no modo Literal.
 ## Status
 Em desenvolvimento
